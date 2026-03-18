@@ -1,16 +1,42 @@
-## Hi there 👋
+# Baldev Rathod
 
-<!--
-**baldev09/baldev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Analyst | AIML Student
 
-Here are some ideas to get you started:
+I focus on building practical AI and data-driven projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Projects
+
+# Road Safety AI App
+- Built to analyze accident-prone areas using data
+- Focus: real-world impact, safety insights
+
+# ATS Resume Analyzer
+- NLP-based project to evaluate resumes
+- Helps understand how hiring systems work
+
+# Power BI Dashboard
+- Data visualization project
+- Focused on extracting insights, not just charts
+
+---
+
+# Skills
+- Python
+- Power BI
+- Machine Learning
+- Data Analysis
+- SQL (Learning)
+
+---
+
+#Currently Learning
+- Advanced SQL
+- Data Analytics
+- Real-world project building
+
+---
+
+# Goal
+To become a strong Data Analyst / AI Engineer by building impactful projects.
